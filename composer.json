@@ -20,7 +20,7 @@
 		}
 	},
 	"autoload-dev": {
-		"psr-12": {
+		"psr-4": {
 			"AdaptiveCards\\Tests\\": "tests/"
 		}
 	},
